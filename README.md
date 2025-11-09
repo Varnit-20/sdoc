@@ -1,1 +1,1 @@
-Link - https://varnit-20.github.io/generate
+Link - (https://varnit-20.github.io/sdoc/)
