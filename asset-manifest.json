@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-enhanced-Document-Generator/static/css/main.e1eda697.css",
+    "main.js": "/AI-enhanced-Document-Generator/static/js/main.fcca76fa.js",
+    "index.html": "/AI-enhanced-Document-Generator/index.html",
+    "main.e1eda697.css.map": "/AI-enhanced-Document-Generator/static/css/main.e1eda697.css.map",
+    "main.fcca76fa.js.map": "/AI-enhanced-Document-Generator/static/js/main.fcca76fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1eda697.css",
+    "static/js/main.fcca76fa.js"
+  ]
+}
